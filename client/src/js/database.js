@@ -42,7 +42,7 @@ export const getDb = async () => {
   console.log('REQUEST', request);
   // Confirm the data is fetched
   const result = await request;
-  console.log('result.value', result.value);
+  result ? console.log('result.value', result.value) : console.log('no data in database')
   return result?.value;
 }
 
