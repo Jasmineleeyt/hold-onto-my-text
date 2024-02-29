@@ -38,9 +38,11 @@ Starter Code from: [coding boot camp](https://github.com/coding-boot-camp/cautio
 Big thanks to Jaytee Padilla who helped me with this project :high_brightness:
 
 Documentation used:
-- [MDN Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
-
 - [Chrome for Developer - Workbox](https://developer.chrome.com/docs/workbox/)
+
+- [MDN IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+
+- [MDN Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
